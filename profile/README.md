@@ -2,12 +2,6 @@
 
 AI phone answering service for small businesses. Picks up every call, answers questions, books appointments, and routes emergencies — 24/7.
 
-### The problem
-
-Service businesses miss 74% of inbound calls. Each missed call costs $300–$5,000+ in lost revenue. Voicemail doesn't cut it — callers hang up and call the next company.
-
-### What NextPhone does
-
 NextPhone is an AI receptionist that answers your business phone line. It sounds natural, knows your business, and handles calls the way you would.
 
 - **Answers calls 24/7** — Nights, weekends, holidays. No missed calls.
@@ -28,7 +22,7 @@ Works with the tools you already use:
 
 **CRM:** HubSpot, Salesforce, Zoho, Pipedrive
 **Calendar:** Google Calendar, Calendly, Cal.com, Acuity
-**Field Service:** ServiceTitan, Housecall Pro, Jobber, Kickserv
+**Field Service:** Housecall Pro, Jobber, Kickserv
 **Communication:** Slack, Microsoft Teams, Email
 **Automation:** Zapier, custom webhooks
 
@@ -42,13 +36,8 @@ Connect any API as a tool your AI agent can use during live calls. Search your C
 
 HVAC, plumbing, electrical, roofing, law firms, medical offices, contractors, property management — any business where the phone is how customers find you.
 
-### Pricing
-
-$199/month. Unlimited calls. No per-minute fees.
-
 ### Links
 
 - [Website](https://www.getnextphone.com)
-- [Live demo](https://www.getnextphone.com/demo) — Call and talk to the AI receptionist
 - [Blog](https://www.getnextphone.com/blog)
 - [Custom tools & integrations](https://github.com/GetNextPhone/tools)
