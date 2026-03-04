@@ -1,24 +1,54 @@
 # NextPhone
 
-AI answering service for small businesses. Picks up calls, answers questions, and books appointments — 24/7.
+AI phone answering service for small businesses. Picks up every call, answers questions, books appointments, and routes emergencies — 24/7.
 
-### What it does
+### The problem
 
-NextPhone replaces voicemail and after-hours answering services with an AI receptionist that actually handles calls:
+Service businesses miss 74% of inbound calls. Each missed call costs $300–$5,000+ in lost revenue. Voicemail doesn't cut it — callers hang up and call the next company.
 
-- **Answers questions** using your business knowledge base
-- **Books appointments** directly into your calendar
-- **Transfers calls** to your team when needed
-- **Sends follow-ups** via SMS after calls
-- **Speaks 20+ languages**
-- **Works with your tools** — HubSpot, Salesforce, ServiceTitan, Google Calendar, Calendly, Slack, and more
+### What NextPhone does
+
+NextPhone is an AI receptionist that answers your business phone line. It sounds natural, knows your business, and handles calls the way you would.
+
+- **Answers calls 24/7** — Nights, weekends, holidays. No missed calls.
+- **Books appointments** — Checks your calendar availability and books directly into Google Calendar, Calendly, or Cal.com.
+- **Answers business questions** — Trained on your knowledge base: services, pricing, hours, service areas.
+- **Transfers calls** — Routes to your team when the caller needs a human. Instantly.
+- **Sends SMS** — Mid-call texts with booking links, directions, or rate sheets. Follow-up texts after calls.
+- **Detects emergencies** — Burst pipe at 2am? Routes to on-call staff immediately.
+- **Blocks spam** — Filters robocalls and solicitors so you only see real customers.
+- **Speaks 20+ languages** — English, Spanish, French, Mandarin, and more.
+- **Records & transcribes** — Every call recorded with full transcript and AI summary.
+- **Tags calls automatically** — New lead, existing customer, emergency, spam — categorized instantly.
+- **Qualifies leads** — Captures name, issue, urgency, and service needed before you call back.
+
+### Integrations
+
+Works with the tools you already use:
+
+**CRM:** HubSpot, Salesforce, Zoho, Pipedrive
+**Calendar:** Google Calendar, Calendly, Cal.com, Acuity
+**Field Service:** ServiceTitan, Housecall Pro, Jobber, Kickserv
+**Communication:** Slack, Microsoft Teams, Email
+**Automation:** Zapier, custom webhooks
+
+### Custom tools
+
+Connect any API as a tool your AI agent can use during live calls. Search your CRM, create tickets, send notifications — no code required.
+
+→ [See the tools repo](https://github.com/GetNextPhone/tools)
 
 ### Built for service businesses
 
-HVAC, plumbing, electrical, law firms, medical offices, contractors — any business where a missed call is a missed customer.
+HVAC, plumbing, electrical, roofing, law firms, medical offices, contractors, property management — any business where the phone is how customers find you.
+
+### Pricing
+
+$199/month. Unlimited calls. No per-minute fees.
 
 ### Links
 
 - [Website](https://www.getnextphone.com)
-- [Try a live demo](https://www.getnextphone.com/demo)
-- [Custom tools & integrations](https://github.com/getnextphone/tools)
+- [Live demo](https://www.getnextphone.com/demo) — Call and talk to the AI receptionist
+- [Blog](https://www.getnextphone.com/blog)
+- [Custom tools & integrations](https://github.com/GetNextPhone/tools)
